@@ -1,0 +1,32 @@
+# Compiled binaries
+hexi
+hexi.exe
+*.exe
+*.out
+*.o
+*.obj
+
+# Build artifacts
+*.a
+*.so
+*.dylib
+*.dll
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Test files
+test_numbers.txt
+numbers.txt
+output.txt
